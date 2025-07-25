@@ -83,3 +83,8 @@ If no file exists, the game will create one for you.
 
 This Tetris clone was created as a fun way to **practice Python**, **build a full game**, and explore **Pygame's capabilities** with graphics, input handling, and logic as a beginner.
 
+---
+
+🙇‍♀️ Author
+Made with ❤️ by Codecat If you liked this project, feel free to ⭐️ it or give feedback!
+
