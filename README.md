@@ -86,5 +86,9 @@ This Tetris clone was created as a fun way to **practice Python**, **build a ful
 ---
 
 🙇‍♀️ Author
-Made with ❤️ by Codecat If you liked this project, feel free to ⭐️ it or give feedback!
+This project was inspired by an tutorial from "Coder Space" but I modified parts of the code, added custom design elements, and used it as practice to build my own version as a beginner.
+
+Made with ❤️ by Codecat
+
+If you liked this project, feel free to ⭐️ it or give feedback!
 
